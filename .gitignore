@@ -5,3 +5,6 @@ notes.txt
 venv/
 env/
 .venv/
+.env
+
+deepread.egg-info
