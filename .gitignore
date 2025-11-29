@@ -1,0 +1,7 @@
+# Text files
+notes.txt
+
+# Virtual environments
+venv/
+env/
+.venv/
