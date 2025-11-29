@@ -7,4 +7,4 @@ env/
 .venv/
 .env
 
-deepread.egg-inf
+deepread.egg-info
