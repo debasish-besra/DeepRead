@@ -7,5 +7,8 @@ pypdf
 faiss-cpu
 ipykernel
 python-dotenv
+structlog
+PyMuPDF
 
 -e .
+

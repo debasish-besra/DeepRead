@@ -1,10 +1,11 @@
-# Text files
 notes.txt
-
-# Virtual environments
 venv/
 env/
 .venv/
 .env
-
+test.py
+data/
+*.pyc
+logs/
+__pycache__/
 deepread.egg-info/
