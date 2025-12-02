@@ -9,6 +9,7 @@ ipykernel
 python-dotenv
 structlog
 PyMuPDF
+structlog
 
 -e .
 
